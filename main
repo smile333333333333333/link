@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Link</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #111;
+            font-family: Arial, sans-serif;
+        }
+
+        a {
+            color: #4da6ff;
+            font-size: 24px;
+            text-decoration: none;
+            word-break: break-all;
+            text-align: center;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://docs.google.com/document/d/1WjKKckhc5qlFU_ooWo-oMb9MLANNTmNTHLkw76uJw_4/edit?tab=t.0" target="_blank">
+        https://docs.google.com/document/d/1WjKKckhc5qlFU_ooWo-oMb9MLANNTmNTHLkw76uJw_4/edit?tab=t.0
+    </a>
+</body>
+</html>
